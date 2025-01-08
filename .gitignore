@@ -1,0 +1,57 @@
+# Build Results
+bin/
+obj/
+Debug/
+Release/
+
+# Rider Project Files
+.idea/
+*.sln.iml
+
+# User-specific Files
+*.user
+*.suo
+*.csproj.user
+*.vbproj.user
+.vscode/
+.vscode-test/
+
+# Logs
+*.log
+
+# Visual Studio Code workspace settings
+.vscode/settings.json
+
+# NuGet
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+!**/[Pp]ackages/repositories.config
+
+# Project-specific files
+.vs/
+*.sqlite
+*.sqlite3
+*.db
+*.mdb
+*.ldf
+*.ndf
+
+# Windows Thumbnail cache files
+Thumbs.db
+
+# macOS files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+*.swp
+
+# Rider IDE files
+*.idea/
+
+# JetBrains Rider artifacts
+.idea/

@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <RootNamespace>VatanSms</RootNamespace>
+    <AssemblyName>VatanSoft.VatanSmsVb.Net</AssemblyName> 
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <Description>VatanSMS.Net API'sini VB.NET projelerinizde kolayca kullanmak için geliştirilmiş bir SDK.</Description>
+    <Authors>Timur</Authors>
+    <Company>VatanSoft</Company>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/vatanyazilim/vatansmsnet-vbdotnet</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageProjectUrl>https://vatansms.net</PackageProjectUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.1.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Text.Json" Version="7.0.5" />
+  </ItemGroup>
+
+</Project>
