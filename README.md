@@ -10,7 +10,7 @@ VatanSMS API'sini VB.NET projelerinizde kolayca kullanmak için geliştirilmiş 
 Kütüphaneyi NuGet ile yükleyin:
 
 ```bash
-dotnet add package VatanSmsVB
+dotnet add package VatanSoft.VatanSmsVb.Net
 ```
 
 ---
